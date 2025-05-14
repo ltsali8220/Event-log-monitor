@@ -25,7 +25,7 @@ This tool provides scripts to monitor event logs on Windows and Linux systems us
 2. Click the "Fork" button in the top-right corner of the page.
 3. Clone your forked repository:
     ```bash
-    git clone https://github.com/<your-username>/Event-log-monitor.git
+    git clone https://github.com/ltsali8220/Event-log-monitor.git
     ```
 
 ## Usage
